@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658381720178",
+    "firebase_url": "https://persondb-7ca2c-default-rtdb.firebaseio.com",
+    "project_id": "persondb-7ca2c",
+    "storage_bucket": "persondb-7ca2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658381720178:android:c60cc10ddf0a619a9a10eb",
+        "android_client_info": {
+          "package_name": "com.reactfinalproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658381720178-1dk50epu2f6e479sgj14sl30mqf50ggi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNL3WVJlC1yAB10kg7UrbM752O1O0CfiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658381720178-1dk50epu2f6e479sgj14sl30mqf50ggi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
