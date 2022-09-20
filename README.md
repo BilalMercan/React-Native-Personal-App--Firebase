@@ -1,5 +1,5 @@
 
-# React - Native News App
+# React - Native Personal C.R.U.D App
 
 #### EN
 
